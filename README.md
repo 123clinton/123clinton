@@ -1,8 +1,6 @@
 # Hi there, my name is Clinton Achale 👋
 
-Here are some ideas to get you started:
-
-- 🔭 'm a licensed medical professional with a passion for Public Health and Medical Education. Recently, I've embarked on a new journey into the exciting world of data analytics, with the goal of building a robust career in this dynamic field.
+- ###🔭 I'm a licensed medical professional with a passion for Public Health and Medical Education. Recently, I've embarked on a new journey into the exciting world of data analytics, with the goal of building a robust career in this dynamic field.
 
 - 🌱 I'm currently immersed in a comprehensive training program in data analytics. My focus is on acquiring the skills and knowledge necessary to make a significant impact in the tech industry.
 - 🌱 
